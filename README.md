@@ -6,7 +6,7 @@ A desktop application built with Python and CustomTkinter that allows users to t
 
 ## Demo
 
-For demo purposes the time was set for 5 seconds instead of minutes
+For demo purposes the time was set to 5 seconds instead of minutes.
 
 ![Demo](screenshots/demo.gif)
 
