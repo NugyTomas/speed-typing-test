@@ -2,7 +2,7 @@
 
 A desktop application built with Python and CustomTkinter that allows users to test their typing speed and accuracy with real-time feedback.
 
----
+--
 
 ## Demo
 
